@@ -1,7 +1,7 @@
 # 					Itinerario de la Cisterna.
 
 #### Sábado 23 de Mayo del 2020.
- ---> __NOTA:__(Me entregan llaves de los candados de la Cisterna y la puerta donde está el interuptor de la Bomba).
+ __NOTA:__(Me entregan llaves de los candados de la Cisterna y la puerta donde está el interuptor de la Bomba).
 	* Inico 19:40 hrs Apgado 21:30 hrs
  		* Volumen Inicial 4/4 > Volumen Final 1/4
  			* El indicador de presión llega a ----> 3.5
@@ -11,16 +11,16 @@
 		* Volumen Inicial 1/4 > Volumen Final 1/4
 
 #### Lunes 25 de Mayo del 2020.
- ---> __NOTA:__(Se tuvo que purgar) 
+__NOTA:__(Se tuvo que purgar) 
  	* Inicio 19:10 hrs Apagado 21:02 hrs
  		* Volumen Inicial 4/4 > Volumen Final 1/4 
- ---> __NOTA:__(LLego agua de la Red por eso el volumen es de 4/4 = es decir está a su máxima capacidad).
+		 __NOTA:__(LLego agua de la Red por eso el volumen es de 4/4 = es decir está a su máxima capacidad).
  			 * El indicador de presión llega a ----> 3.5
 
 #### Martes 26 de Mayo del 2020.
- ---> __NOTA:__(Se tuvo que purgar).
+__NOTA:__(Se tuvo que purgar).
  	* Inico 19:10 hrs Apagado 20:42 hrs
- --->__NOTA:__(Se tuvo que apagar antes ya que el volumen del agua descendio a 1/8).
+	__NOTA:__(Se tuvo que apagar antes ya que el volumen del agua descendio a 1/8).
 		* Volumen Inicial 3/4 > Volumen Final 1/8 (Menos de un cuarto).
 			* El Indicador de presión llega a ----> 3.0
 
@@ -34,12 +34,12 @@
 
 #### Viernes 29 de Mayo del 2020.
 	* Inico 18:00 hrs Apagdo 20:20 hrs
- ---> __NOTA:__(Se llega a un acuerdo para encenderla antes del horario establecido por que dos días antes no hubo agua).
+ ---> __NOTA:__ (Se llega a un acuerdo para encenderla antes del horario establecido por que dos días antes no hubo agua).
 		* Volumen Iniclal 4/4 > Volumen Final 1/4
 			* El indicador de presión llega a ----> 3.5
 
 #### Sábado 30 de Mayo del 2020.
- ---> __NOTA:__(Se tuvo que purgar).
+ ---> __NOTA:__ (Se tuvo que purgar).
 	* Inicio 19:07 hrs Apgado 20:35 hrs
 		* Volumen Inical 4/4 > Volumen Final 1/4
 			* El indicador de presión llega a ----> 3.5
@@ -49,7 +49,7 @@
 		* Volumen Inicial 1/4 > Volumen Final 1/4
 
 #### Lunes 1 de Junio del 2020.
- ---> __NOTA:__(Se tuvo que purgar).
+ ---> __NOTA:__ (Se tuvo que purgar).
 	* Inicio 19:07 hrs Apagado 21:29 hrs
 		* Volumen Inicial 3/4 > Volumen Final 1/8 o -1/4
 			* El Indicador de presión llega a ----> 2.0
