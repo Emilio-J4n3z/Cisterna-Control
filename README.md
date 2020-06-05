@@ -3,8 +3,8 @@
 #### Sábado 23 de Mayo del 2020.
  -----> __NOTA:__ (Me entregan llaves de los candados de la Cisterna y la puerta donde está el interuptor de la Bomba).
 >	* Inico 19:40 hrs Apgado 21:30 hrs
->	* Volumen Inicial 4/4 > Volumen Final 1/4
->	* El indicador de presión llega a ----> 3.5
+>	 * Volumen Inicial 4/4 > Volumen Final 1/4
+>	  * El indicador de presión llega a ----> 3.5
 
 #### Domingo 24 de Mayo del 2020.
 >	* No se encendio la bomba.
