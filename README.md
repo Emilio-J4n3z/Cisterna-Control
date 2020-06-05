@@ -14,13 +14,13 @@
  ---> ***NOTA:***(Se tuvo que purgar) 
 >	* Inicio 19:10 hrs Apagado 21:02 hrs
 >		* Volumen Inicial 4/4 > Volumen Final 1/4 
- ---------------> ***NOTA:***(LLego agua de la Red por eso el volumen es de 4/4 = es decir está a su máxima capacidad.)
+----------------> ***NOTA:***(LLego agua de la Red por eso el volumen es de 4/4 = es decir está a su máxima capacidad.)
 >			* El indicador de presión llega a ----> 3.5
 
 #### Martes 26 de Mayo del 2020.
  ---> ***NOTA:***(Se tuvo que purgar)
 >	* Inico 19:10 hrs Apagado 20:42 hrs
- -------> ***NOTA:***(Se tuvo que apagar antes ya que el volumen del agua descendio a 1/8)
+--------> ***NOTA:***(Se tuvo que apagar antes ya que el volumen del agua descendio a 1/8)
 >		* Volumen Inicial 3/4 > Volumen Final 1/8 (Menos de un cuarto)
 >			* El Indicador de presión llega a ----> 3.0
 
@@ -66,4 +66,4 @@ Lunes 1 de Junio del 2020.
 #### Jueves 04 de Junio del 2020.
 >	* Inicio 19:00 hrs Apgado 21:05 hrs
 >		* Volumen Inicial 3/4 > Volumen Final 1/8 o -1/4
-			* El indicador de presión llega a ----> 2.0
+>			* El indicador de presión llega a ----> 2.0
