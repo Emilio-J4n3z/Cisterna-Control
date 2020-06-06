@@ -67,3 +67,7 @@
 >	* Inicio 19:00 hrs Apgado 21:05 hrs
 >	* Volumen Inicial 3/4 > Volumen Final 1/8 o -1/4
 >	* El indicador de presión llega a ----> 2.0
+
+#### Viernes 05 de Julio del 2020.
+>	* No se encendio la bomba.
+>	* Volumen Inicial 1/4 > Volumen Final 1/4
