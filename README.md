@@ -74,9 +74,9 @@
 
 #### Sábado 06 de Junio del 2020
  -----> __NOTA:__ (Se tuvo que purgar).
-	* Inicio 19:05 hrs Apagado 20:32 hrs
-	* Volumen Inicial 4/4 Volumen Final 2/4
-	* El Indicador de presión llega a ----> 2.0
+>	* Inicio 19:05 hrs Apagado 20:32 hrs
+>	* Volumen Inicial 4/4 Volumen Final 2/4
+>	* El Indicador de presión llega a ----> 2.0
 >> -----> __NOTA__ (Se llego un acuerdo para que ver cuanto se tardaba en llenarse
 >>		con las llaves cerradas para ver cuanto tardaba en llegar
 >>		a los edificios en especial con el mayor número de hogares).
